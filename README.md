@@ -8,5 +8,5 @@ Menurut jenisnya, algoritma ini menerapkan jenis strategi *Decrease and Conquer*
 ## Requirement:
 
 ## How to Use:
-1. Direktkori defult file yang dijadikan bahan uji adalah `./input.txt`, pastikan direktori file yang digunakan sesuai.
+1. Direktori default file yang dijadikan bahan uji adalah `./input.txt`, pastikan direktori file yang digunakan sesuai.
 1. Jalankan program python melalui command line.
