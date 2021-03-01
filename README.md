@@ -6,8 +6,7 @@ Pada *graph* ini, *node* adalah kode mata kuliah, sementara *edge* dari *node* i
 Menurut jenisnya, algoritma ini menerapkan jenis strategi *Decrease and Conquer* yang mengurangi persoalan sebesar suatu variabel, di mana variabel bergantung pada banyaknnya mata kuliah yang dapat diambil pada suatu semester.
 
 ## Requirement:
--
 
 ## How to Use:
-1.Direktkori defult file yang dijadikan bahan uji adalah `./input.txt`, pastikan direktori file yang digunakan sesuai.
-1.Jalankan program python melalui command line.
+1. Direktkori defult file yang dijadikan bahan uji adalah `./input.txt`, pastikan direktori file yang digunakan sesuai.
+1. Jalankan program python melalui command line.
